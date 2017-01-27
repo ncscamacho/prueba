@@ -1,0 +1,6 @@
+ubuntu 14.04
+
+Netbeans 8.2
+Paraya 4.1.1
+
+JPA_Modeler_v2.8_NBv8.2 
