@@ -1,0 +1,19 @@
+{
+    "home": {
+        "title": "Welcome, Java Geek!",
+        "subtitle": "This is your homepage",
+        "logged": {
+            "message": "You are logged in as user \"{{username}}\"."
+        },
+        "question": "If you have any question on JPA Modeler:",
+        "link": {
+            "homepage": "JPA Modeler homepage",
+            "stackoverflow": "JPA Modeler on Stack Overflow",
+            "bugtracker": "JPA Modeler bug tracker",
+            "chat": "JPA Modeler public chat room",
+            "follow": "follow @jpamodeler on Twitter"
+        },
+        "like": "If you like JPA Modeler, don't forget to give us a star on",
+        "github": "GitHub"
+    }
+}
